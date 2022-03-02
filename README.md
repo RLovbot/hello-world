@@ -1,2 +1,3 @@
 # hello-world
-training-22
+readme-edits
+new to github
